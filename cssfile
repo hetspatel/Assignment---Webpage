@@ -1,0 +1,20 @@
+.headings{
+ font-family: ;
+ font-size;30pt;
+}
+
+.logindiv{
+background-color:yellow;
+margin-left:200px;
+width:400px;
+}
+table, td, th {
+	text-align:center;
+	border-collapse:collapse;
+   	padding:10px;
+}
+
+th {
+    background-color: #444;
+    color: white;
+}
